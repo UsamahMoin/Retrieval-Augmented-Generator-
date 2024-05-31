@@ -41,7 +41,7 @@ or Download Ollama from here -> https://ollama.com/
 ### Running the Code
 1. Execute the script:
     ```bash
-    python main.py
+    python RAG.py
     ```
 
 2. The script will load the documents, create embeddings, and build a FAISS index.
