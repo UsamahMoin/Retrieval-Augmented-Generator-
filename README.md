@@ -30,6 +30,7 @@ This project is a simple implementation of a Retrieval-Augmented Generation (RAG
     ```bash
     curl -sSfL https://ollama.com/download | sh
     ```
+or Download Ollama from here -> https://ollama.com/
 
 ### Prepare Documents
 1. Create a folder named `documents` in the project directory.
