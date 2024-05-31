@@ -17,7 +17,7 @@ This project is a simple implementation of a Retrieval-Augmented Generation (RAG
 ### Install Dependencies
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:UsamahMoin/Retrieval-Augmented-Generator-.git
     cd <repository-directory>
     ```
 
